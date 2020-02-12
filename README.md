@@ -11,13 +11,14 @@ A Linux package that find the fastest mirror and configure apt to use that.
 
 Just a fork of [IceM4nn/mirrorscript-v2](https://github.com/IceM4nn/mirrorscript-v2)
 
+## Supported Distros
+
+- Kali Linux ( kali-rolling )
+
 ## Installation
 
 ```shell
-$ git clone https://github.com/heinthanth/better-mirror
-$ cd better-mirror
-$ chmod +x build.sh
-$ ./build.sh
+$ wget https://github.com/heinthanth/better-mirror/releases/download/1.0.0/better-mirror.deb
 $ sudo dpkg -i better-mirror.deb
 ```
 
