@@ -1,0 +1,7 @@
+Package: better-mirror
+Version: 1.0.0
+Maintainer: Hein Thanth <contact@heinthanth.com>
+Description: A package that select the fastest for debian-like distros like Kali Linux, Parrot Security Linux
+Homepage: https://github.com/heinthanth/better-mirror
+Architecture: all
+Depends: python3, python3-pip
